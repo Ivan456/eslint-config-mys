@@ -7,6 +7,7 @@ module.exports = {
   "plugins": ["brackets"],
   "rules": {
     "max-len" : ["error", {
+      "code": 120,
       "ignoreComments": true,
       "ignoreTrailingComments": true,
       "ignoreUrls": true,
