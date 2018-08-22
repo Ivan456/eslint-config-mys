@@ -6,8 +6,16 @@ module.exports = {
   "extends": "standard",
   "plugins": ["brackets"],
   "rules": {
+    "max-len" : ["error", {
+      "ignoreComments": true,
+      "ignoreTrailingComments": true,
+      "ignoreUrls": true,
+      "ignoreStrings": true,
+      "ignoreTemplateLiterals": true,
+      "ignoreRegExpLiterals": true
+    }],
     "semi": ["error", "always"],
-    "indent": ["error", 2],
+    "indent": ["error", 4],
     "object-curly-spacing": ["error", "always"],
     "no-nested-ternary": "error",
     "generator-star-spacing": ["error", { "before": false, "after": true }],
