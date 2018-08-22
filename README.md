@@ -1,2 +1,2 @@
-# eslint-config-mys
-eslint-config-mys
+# eslint-config-myschneider
+eslint-config-myschneider
