@@ -1,0 +1,3 @@
+*.log
+.nvmrc
+node_modules
