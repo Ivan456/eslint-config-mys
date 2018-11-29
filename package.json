@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-myschneider",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "description": "eslint-config-myschneider",
   "main": "index.json",
   "scripts": {
