@@ -16,8 +16,10 @@
     "url": "https://github.com/Ivan456/eslint-config-myschneider/issues"
   },
   "homepage": "https://github.com/Ivan456/eslint-config-myschneider#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  },
   "dependencies": {
-    "eslint": "^5.2.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-brackets": "^0.1.3",
     "eslint-plugin-import": "^2.13.0",
